@@ -1,5 +1,6 @@
-first_number = 3
-second_number = 2
-sum = 5
-difference = 1
-product = 6
+first_number = 15
+second_number = 5
+sum = 20
+difference = 10
+product = 75
+quotient = 3
